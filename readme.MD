@@ -2,3 +2,8 @@
 # plan dosa started
  * Dosa Bater
  * oil added
+
+## karam dosa 
+  * dosa bater
+  * karam added
+  * oil added
