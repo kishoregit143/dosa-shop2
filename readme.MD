@@ -5,5 +5,5 @@
 
 ## karam dosa 
   * dosa bater
-  * karam added
+  * erra karam added
   * oil added
