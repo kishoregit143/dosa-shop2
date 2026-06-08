@@ -10,3 +10,6 @@
 ## masala dosa  
   * oil added
   * masala added
+## eag dosa  
+  * dosa batter 
+  * eag and karam
